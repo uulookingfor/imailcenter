@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vm Mail</title>
+</head>
+<body>
+<h1>$!{head1}</h1>
+<h2>$!{head2}</h2>
+<div>
+    <p>$!{par}</p>
+</div>
+</body>
+</html>
